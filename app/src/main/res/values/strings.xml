@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Passing Data With Intents</string>
+    <string name="btnNextActivity">Go to Next Activity</string>
+    <string name="txtString">Input a String</string>
+    <string name="txtInteger">Input an Integer</string>
+    <string name="txtDouble">Input a Double</string>
+    <string name="txtInputError">Missing input value</string>
+    <string name="txtDesc">Values input by user:</string>
+    <string name="txtIntegerOutOfRange">Must be between 0 and 100</string>
+</resources>
